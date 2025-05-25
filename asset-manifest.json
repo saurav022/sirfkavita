@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sirfkavita/static/css/main.d5d9a307.css",
-    "main.js": "/sirfkavita/static/js/main.adfa52a9.js",
+    "main.js": "/sirfkavita/static/js/main.4d481145.js",
     "static/js/453.ed3810f9.chunk.js": "/sirfkavita/static/js/453.ed3810f9.chunk.js",
     "static/media/fa-solid-900.ttf": "/sirfkavita/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/sirfkavita/static/media/fa-brands-400.1815e00441357e01619e.ttf",
@@ -21,11 +21,11 @@
     "static/media/slick.woff": "/sirfkavita/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/sirfkavita/index.html",
     "main.d5d9a307.css.map": "/sirfkavita/static/css/main.d5d9a307.css.map",
-    "main.adfa52a9.js.map": "/sirfkavita/static/js/main.adfa52a9.js.map",
+    "main.4d481145.js.map": "/sirfkavita/static/js/main.4d481145.js.map",
     "453.ed3810f9.chunk.js.map": "/sirfkavita/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5d9a307.css",
-    "static/js/main.adfa52a9.js"
+    "static/js/main.4d481145.js"
   ]
 }
