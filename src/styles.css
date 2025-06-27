@@ -86,7 +86,7 @@ footer {
   margin-top: 50px;
 }
 header h1 {
-  font-family: "Cursive", "Brush Script MT", cursive;
+  font-family: emoji;
 }
 .logo {
   width: 60px; /* Adjust logo size */

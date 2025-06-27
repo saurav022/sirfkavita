@@ -5,8 +5,8 @@ const Card = () => {
   return (
     <div className="cardIC">
       <div className="containerIC">
-        <h4 className="h4class"><b>UPCOMING EVENT In Patna</b></h4>
-        <p className="pclass">Patna, June 1st!</p>
+        <h4 className="h4class"><b>UPCOMING EVENT</b></h4>
+        <p className="pclass">Patna, June 29th!</p>
          <a href="https://forms.gle/crm464Lt4PYA33sr6" className="btn" target="_blank" rel="noopener noreferrer">
   Register Now
 </a>
